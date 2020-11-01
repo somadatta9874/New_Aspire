@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.Grade{
+margin-top: 463px;
+margin-left: 720px;
+
+}
+div.a{
+  text-align: right;
+}
+div.b{
+  text-align: center;
+}
+div.c{
+  text-align: left;
+}
